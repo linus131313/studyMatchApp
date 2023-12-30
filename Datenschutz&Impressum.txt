@@ -1,0 +1,57 @@
+**Impressum:**
+
+Stratek GmbH  
+Hopfenstraße 29e,
+85283 Wolnzach
+Deutschland  
+
+E-Mail: mail@stratek.de  
+Telefon: +49 152 36741037 
+
+
+‍Handelsregister-Nr.: HRB11365
+USt-IdNr.: DE363262679
+
+**Datenschutzerklärung:**
+
+Vielen Dank für die Nutzung unserer App "Study Match". Im Folgenden möchten wir Sie darüber informieren, wie wir mit Ihren persönlichen Daten umgehen.
+
+**1. Verantwortliche Stelle**
+
+Verantwortlich für die Verarbeitung Ihrer personenbezogenen Daten ist die Stratek GmbH, Musterstraße 123, 12345 Musterstadt, Deutschland.
+
+**2. Erhobene Daten**
+
+Die App "Study Match" speichert lokal auf Ihrem Gerät die folgenden Informationen in einer Hive-Datenbank:
+
+- Name
+- Standort
+- E-Mail-Adresse
+
+Diese Daten werden benötigt, um Ihnen eine effiziente Suche in der App zu ermöglichen.
+
+**3. Zweck der Datenverarbeitung**
+
+Die gespeicherten Daten dienen ausschließlich dem Zweck, Ihnen eine personalisierte Suche in der App zu ermöglichen. Die Informationen werden lokal auf Ihrem Gerät gespeichert und nicht an Dritte weitergegeben.
+
+**4. HTTP Requests**
+
+Die App ermöglicht es dem Benutzer, HTTP-Anfragen durchzuführen. Wir übernehmen keine Verantwortung für den Inhalt oder die Sicherheit dieser Anfragen.
+
+**5. Weitere personenbezogene Daten**
+
+Die App "Study Match" speichert keine weiteren personenbezogenen Daten. Alle Daten, die für die Funktionalität der App erforderlich sind, werden lokal auf Ihrem Gerät gespeichert.
+
+**6. Datensicherheit**
+
+Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen. Die Hive-Datenbank auf Ihrem Gerät ist passwortgeschützt, um die Sicherheit Ihrer persönlichen Informationen zu gewährleisten.
+
+**7. Kontakt**
+
+Für Fragen, Anregungen oder Anliegen bezüglich Ihrer Daten können Sie uns unter der E-Mail-Adresse mail@stratek.de erreichen.
+
+**8. Änderungen der Datenschutzerklärung**
+
+Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden. Über wesentliche Änderungen werden wir Sie in der App informieren.
+
+Stand: 30.12.2023
